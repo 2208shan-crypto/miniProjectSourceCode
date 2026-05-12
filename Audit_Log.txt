@@ -1,0 +1,5 @@
+[Thu Apr  9 13:34:15 2026] ADD: Account 8 (rithan, p) created with balance: $3000.00
+[Thu Apr  9 13:35:22 2026] ADD: Account 5 (nivedan, j) created with balance: $4000.00
+[Thu Apr  9 13:36:06 2026] DELETE: Account 5 (nivedan, j) deleted.
+[Thu Apr  9 13:37:57 2026] DELETE: Account 44 (s, saran) deleted.
+[Thu Apr  9 13:38:16 2026] DELETE: Account 8 (rithan, p) deleted.
